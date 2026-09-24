@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Lashan Alwis</h1>
-<p>Second-Year Computer Science Student at the Informatics Institute of Technology (IIT).</p>
+
 <h2>👨‍💻 About Me</h2>
 
 <p>
